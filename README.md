@@ -1,2 +1,2 @@
-# VisionLanguage-InfoUnderstander-SkillsPlanner
+# Vision Thinker is a VisionLanguage as Information Understander for Agents and Skills Planner for robotics
 From vision input (screenshots, ego-centricvideo) and task (temporal spatial logical Understanding, Skills Planner) described in language, output the expected results in language, structured pose data, and more...
